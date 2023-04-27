@@ -23,3 +23,40 @@ ul{
     color: #1D3130;
 }
 
+.main-block{
+    display: flex;
+    justify-content: space-around;
+    margin-top:56px;
+}
+
+.burger-img{
+    width: 540px;
+    height: 392px;
+}
+
+.main-block-first-text{
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+    color: #254F4C;
+}
+
+.main-block-second-text{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1D3130;
+}
+
+.main-block-btn{
+    border: none;
+    width: 216px;
+    height: 49px;
+    background: #FF583E;
+    border-radius: 100px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    color: #FFFFFF;
+}
